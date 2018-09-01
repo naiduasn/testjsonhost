@@ -2,26 +2,31 @@
   {
     "title": "Best Coffee & Tea",
     "subtitle": "Coffee Beans, Filter coffee powder & Tea",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/coffee-beans.jpg?2840018314423095313"
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/coffee-beans.jpg?2840018314423095313",
+    "collectionId": "38092406844"
   },
   {
     "title": "Dairy Products",
     "subtitle": "Paneer, Cheese & Milk",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/dairy-banner.jpg?2840018314423095313"
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/dairy-banner.jpg?2840018314423095313",
+    "collectionId": "38092570684"
   },
   {
     "title": "Pasta, Pizza & Noodles",
     "subtitle": "Brands: Reggia, Habit, Maggi, Delmonte, Veeba",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/pizza-pasta.jpg?2840018314423095313"
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/pizza-pasta.jpg?2840018314423095313",
+    "collectionId": "38090113084"
   },
   {
     "title": "Groceries",
     "subtitle": "Dals,Pulses,Oil,Spices & Masalas",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/homepage-pulses.jpg?2840018314423095313"
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/homepage-pulses.jpg?2840018314423095313",
+    "collectionId": "38648938556"
   },
   {
-    "title": "Ready to Cook",
-    "subtitle": "Chapathi, Poori & Paratha",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/readytocook.png?6583374604046913119"
+    "title": "Gourmet & Canned Food",
+    "subtitle": "Jalapenos, Olives & Mango Pulp",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/readytocook.png?6583374604046913119",
+    "collectionId": "38093586492"
   }
 ]
