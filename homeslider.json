@@ -4,34 +4,34 @@
     "subtitle": "Coffee Beans, Filter coffee powder & Tea",
     "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/coffee-beans.jpg?2840018314423095313",
     "collectionId": "",
-    "collectionHandle":"bestsellers"
+    "collectionHandle":"coffee-tea"
   },
   {
     "title": "Dairy Products",
     "subtitle": "Paneer, Cheese & Milk",
     "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/dairy-banner.jpg?2840018314423095313",
     "collectionId": "",
-    "collectionHandle":"bestsellers"
+    "collectionHandle":"dairy-products"
   },
   {
     "title": "Pasta, Pizza & Noodles",
     "subtitle": "Brands: Reggia, Habit, Maggi, Delmonte, Veeba",
     "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/pizza-pasta.jpg?2840018314423095313",
     "collectionId": "",
-    "collectionHandle":"bestsellers"
+    "collectionHandle":"pasta-noodles"
   },
   {
     "title": "Groceries",
     "subtitle": "Dals,Pulses,Oil,Spices & Masalas",
     "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/homepage-pulses.jpg?2840018314423095313",
     "collectionId": "",
-    "collectionHandle":"bestsellers"
+    "collectionHandle":"groceries"
   },
   {
     "title": "Gourmet & Canned Food",
     "subtitle": "Jalapenos, Olives & Mango Pulp",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/readytocook.png?6583374604046913119",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/coleccion-de-comida-enlatada_1308-748.jpg?v=1525376409",
     "collectionId": "",
-    "collectionHandle":"bestsellers"
+    "collectionHandle":"gourmet-canned-food"
   }
 ]
