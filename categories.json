@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Best Coffee & Tea",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/coffee-beans.jpg?2840018314423095313",
+    "collectionId": "",
+    "collectionHandle":"bestsellers"
+  },
+  {
+    "title": "Dairy Products",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/dairy-banner.jpg?2840018314423095313",
+    "collectionId": "",
+    "collectionHandle":"bestsellers"
+  },
+  {
+    "title": "Pasta, Pizza & Noodles",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/pizza-pasta.jpg?2840018314423095313",
+    "collectionId": "",
+    "collectionHandle":"bestsellers"
+  },
+  {
+    "title": "Groceries",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/homepage-pulses.jpg?2840018314423095313",
+    "collectionId": "",
+    "collectionHandle":"bestsellers"
+  },
+  {
+    "title": "Gourmet & Canned Food",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/readytocook.png?6583374604046913119",
+    "collectionId": "",
+    "collectionHandle":"bestsellers"
+  }
+]
