@@ -33,5 +33,12 @@
     "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/coleccion-de-comida-enlatada_1308-748.jpg?v=1525376409",
     "collectionId": "",
     "collectionHandle":"gourmet-canned-food"
+  },
+  {
+    "title": "Syrup & Crush",
+    "subtitle": "Marimbula, Malas, Monin, Manama",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/monin_slide1.jpg?v=1525374856",
+    "collectionId": "",
+    "collectionHandle":"fruit-syrup-crush"
   }
 ]
