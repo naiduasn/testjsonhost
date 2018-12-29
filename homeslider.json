@@ -1,51 +1,9 @@
 [
   {
-    "title": "VKL - Chefs Art",
-    "subtitle": "Chefs Art, Sunbay, Spicefield, Marimbula",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/vkl.jpeg?15938053425274032478",
+    "title": "Happy New year",
+    "subtitle": "No Deliveries on Dec 30th, 31st & Jan 1st",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/happy-holidays-400.jpg?2948859714474375403",
     "collectionId": "",
-    "collectionHandle":"vkl"
-  },
-  {
-    "title": "Daawat",
-    "subtitle": "Daawat Basmati Dubar, Chefs special, Royal",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/daawat-basmati.png?v=1539895024",
-    "collectionId": "",
-    "collectionHandle":"daawat"
-  },
-  {
-    "title": "Dairy Products",
-    "subtitle": "Paneer, Cheese & Milk",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/dairy-banner.jpg?2840018314423095313",
-    "collectionId": "",
-    "collectionHandle":"dairy-products"
-  },
-  {
-    "title": "Pasta, Pizza & Noodles",
-    "subtitle": "Brands: Reggia, Habit, Maggi, Delmonte, Veeba",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/pizza-pasta.jpg?2840018314423095313",
-    "collectionId": "",
-    "collectionHandle":"pasta-noodles"
-  },
-  {
-    "title": "Groceries",
-    "subtitle": "Dals,Pulses,Oil,Spices & Masalas",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/homepage-pulses.jpg?2840018314423095313",
-    "collectionId": "",
-    "collectionHandle":"groceries"
-  },
-  {
-    "title": "Gourmet & Canned Food",
-    "subtitle": "Jalapenos, Olives & Mango Pulp",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/coleccion-de-comida-enlatada_1308-748.jpg?v=1525376409",
-    "collectionId": "",
-    "collectionHandle":"gourmet-canned-food"
-  },
-  {
-    "title": "Syrup & Crush",
-    "subtitle": "Marimbula, Malas, Monin, Manama",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/Marimbula-Mockup-1-600x480.jpg?16931698463054312778",
-    "collectionId": "",
-    "collectionHandle":"fruit-syrup-crush"
+    "collectionHandle":"bestsellers"
   }
 ]
