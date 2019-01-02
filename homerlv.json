@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Best Sellers",
+    "type": "collection",
+    "handle":"BESTSELLERS"
+  },
+  {
+    "title": "VKL - Chefs Art",
+    "type": "tag",
+    "handle":"vkl"
+  },
+  {
+    "title": "Sauces & Spreads",
+    "type": "collection",
+    "handle":"sauces-spreads"
+  }
+]
