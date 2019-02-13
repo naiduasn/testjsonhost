@@ -4,6 +4,10 @@
     "handle":"BESTSELLERS"
   },
   {
+    "title": "Beverages, Water",
+    "handle":"beverages"
+  },
+  {
     "title": "Masalas & Spices",
     "handle":"masalas-spices"
   },
