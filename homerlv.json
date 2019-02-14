@@ -4,6 +4,10 @@
     "handle":"BESTSELLERS"
   },
   {
+    "title": "Frozen - Fries, Wedges, Pattys",
+    "handle":"frozen-food"
+  },
+  {
     "title": "Beverages, Water",
     "handle":"beverages"
   },
@@ -14,14 +18,6 @@
   {
     "title": "Sauces & Spreads",
     "handle":"sauces-spreads"
-  },
-  {
-    "title": "Frozen - Fries, Wedges, Pattys",
-    "handle":"frozen-food"
-  },
-  {
-    "title": "VKL - Chefs Art, SpringBurst",
-    "handle":"vkl"
   },
   {
     "title": "Pasta & Noodles",
