@@ -1,5 +1,9 @@
 [
   {
+    "title": "New Arrivals",
+    "handle":"newarrivals"
+  },
+  {
     "title": "Best Sellers",
     "handle":"BESTSELLERS"
   },
