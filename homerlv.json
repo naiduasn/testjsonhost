@@ -8,23 +8,15 @@
     "handle":"BESTSELLERS"
   },
   {
+    "title": "Horecacart - Assured Quality Groceries",
+    "handle":"hcqa"
+  },
+  {
     "title": "Frozen - Fries, Wedges, Pattys",
     "handle":"frozen-food"
   },
   {
-    "title": "Beverages, Water",
-    "handle":"beverages"
-  },
-  {
     "title": "Sauces & Spreads",
     "handle":"sauces-spreads"
-  },
-  {
-    "title": "Pasta & Noodles",
-    "handle":"pasta-noodles"
-  },
-  {
-    "title": "Dairy Products",
-    "handle":"dairy-products"
   }
 ]
