@@ -1,0 +1,20 @@
+Get All product ID's:
+https://{myshop}.myshopify.com/admin/api/2019-04/products.json?fields=id&limit=250&page=1 ==> save json response
+
+jq -r '.products[] | .id|tostring + ","' page1.json >> pids.txt
+
+Mutation:
+https://{myshop}.myshopify.com/admin/api/2019-07/graphql.json
+
+mutation M ($id: ID!) {
+  Product: productUpdate(input: {id: $id, metafields: [{key: "boxQty", namespace: "product", value: "NA", valueType: STRING}, {key: "foodPreference", namespace: "product", value: "NA", valueType: STRING}, {key: "returnpolicy", namespace: "product", value: "{}", valueType: JSON_STRING}, {key: "dish", namespace: "product", value: "NA", valueType: STRING}, {key: "tip", namespace: "product", value: "NA", valueType: STRING}, {key: "bestBefore", namespace: "product", value: "NA", valueType: STRING}, {key: "mrp", namespace: "product", value: "NA", valueType: STRING}, {key: "category", namespace: "product", value: "NA", valueType: STRING}, {key: "containerType", namespace: "product", value: "NA", valueType: STRING}, {key: "pincode", namespace: "product", value: "NA", valueType: STRING}, {key: "about", namespace: "product", value: "NA", valueType: STRING}, {key: "video", namespace: "product", value: "NA", valueType: STRING}, {key: "moq", namespace: "product", value: "0", valueType: INTEGER}, {key: "organic", namespace: "product", value: "NA", valueType: STRING}, {key: "shelfLife", namespace: "product", value: "NA", valueType: STRING}, {key: "brand", namespace: "product", value: "NA", valueType: STRING}, {key: "mfgDate", namespace: "product", value: "NA", valueType: STRING}, {key: "location", namespace: "product", value: "BANGALORE", valueType: STRING}]}) {
+    product {
+      id
+    }
+  }
+}
+
+GraphQl Variables:
+{
+	"id": "{{productId}}"
+}
