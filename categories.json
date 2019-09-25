@@ -1,9 +1,9 @@
 [
   {
     "title": "Coffee & Tea",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/coffee-beans.jpg?2840018314423095313",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/Teeth-Staining.jpg?v=1525375682",
     "collectionId": "",
-    "collectionHandle": "bestsellers"
+    "collectionHandle": "coffee-tea"
   },
   {
     "title": "Dairy Products",
@@ -12,10 +12,10 @@
     "collectionHandle": "dairy-products"
   },
   {
-    "title": "Pasta, Pizza & Noodles",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/files/pizza-pasta.jpg?2840018314423095313",
+    "title": "House Keeping",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/maid-400.jpg?v=1558875911",
     "collectionId": "",
-    "collectionHandle": "bestsellers"
+    "collectionHandle": "house-keeping"
   },
   {
     "title": "Delmonte",
@@ -66,10 +66,10 @@
     "collectionHandle": "masalas-spices"
   },
   {
-    "title": "McCain",
+    "title": "Breads & Bakery",
     "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/sticky-mccain-logo.png?v=1525371420",
     "collectionId": "",
-    "collectionHandle": "mccain"
+    "collectionHandle": "breads-bakery"
   },
   {
     "title": "Monin",
@@ -108,10 +108,10 @@
     "collectionHandle": "reggia"
   },
   {
-    "title": "Rice",
-    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/rice1.jpg?v=1525373952",
+    "title": "Vegetables & Fruits",
+    "illustration": "https://cdn.shopify.com/s/files/1/0018/9530/1180/collections/veg.jpg?v=1569363029",
     "collectionId": "",
-    "collectionHandle": "rice"
+    "collectionHandle": "vegetables-fruits"
   },
   {
     "title": "Rich",
